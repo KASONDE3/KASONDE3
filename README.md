@@ -1,16 +1,32 @@
-## Hi there 👋
+ Hi there 👋, I am Kasonde Mukuka 
 
-<!--
-**KASONDE3/KASONDE3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **Teach Areas**
+_**These include programming languages and other skills as i am constantly seeking to improve my skill set**_
 
-Here are some ideas to get you started:
+1. **Networking Engineering**
+   - Using CISCO packet tracer to simulate networks before implementation
+   - Switch, router & Firewall configuration
+2. **Junior Full Stack Developer**
+   - proficient with Flask, html, css, js
+   - Bootstrap
+   - Figma
+   - Currently learning Node
+3. **Ethical Hacking**
+   - Pentesting
+   - Info security
+   - Virtual lab setup
+4. **Programming Languages and markups**
+   - Java (basics & Socket programming)
+   - Python (basics & flask, Tkinter and django)
+ 5. **Flutter Developer**
+    - Building app for cross platform   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently Learning**
+1. C language
+2. JavaScript (react & express)
+3. C++
+4. App Dev using Flutter
+5. Docker basics
+
+
+ 
