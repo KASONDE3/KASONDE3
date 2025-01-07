@@ -27,6 +27,6 @@ _**These include programming languages and other skills as i am constantly seeki
 3. C++
 4. App Dev using Flutter
 5. Docker basics
-
+6. Socket Programming
 
  
