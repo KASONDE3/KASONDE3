@@ -1,7 +1,7 @@
 <h1><p align="center">Hi there 👋, I am Kasonde Mukuka</p> </h1> 
-
+<div align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="600">
-
+</div>
 <h1> <p align="left">Areas of Technology am currently involved with include:</p> </h1>
 <ul>
   <li><strong>🤖 Network Engineering:</strong> From simulation to actual implementation.</li>
@@ -50,6 +50,6 @@
 </ul>
 <br>
 <h2># I Never Stop Learning, each day I learn something new</h2>
+<div>
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300">
-
- 
+</div>
