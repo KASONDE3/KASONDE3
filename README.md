@@ -8,7 +8,7 @@
   <li><strong>🌐 Web Development:</strong>Frontend Arsnal: HTML, CSS, Booststrap, figma, tailwind CSS, JS, Backend Arsnal: Flask, django & Java</li>
   <li><strong>💻 Python Programming:</strong> Flask, Tkinter & Django</li> 
   <li><strong>📱 Flutter Apps Development:</strong> Developing cross-platform mobile applications using Dart programming language and Flutter framework.</li>
-  <li><strong>    Ethical Hacking:</strong> Pentesting, network and systems security **# TEAM CYBER**</li>
+  <li><strong>    Ethical Hacking:</strong> Pentesting, network and systems security <strong># TEAM CYBER</strong></li>
 </ul>
 <br>
 <p align="left">Currently Learning and developing deeper insight into:</p>
