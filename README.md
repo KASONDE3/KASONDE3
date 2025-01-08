@@ -11,7 +11,7 @@
   <li><strong>    Ethical Hacking:</strong> Pentesting, network and systems security **# TEAM CYBER**</li>
 </ul>
 <br>
-<p align="left">Currently Learning and developer deeper insight into:</p>
+<p align="left">Currently Learning and developing deeper insight into:</p>
 <ul>
   <ul>
     <li>Switch, router & firewall configuration</li>
