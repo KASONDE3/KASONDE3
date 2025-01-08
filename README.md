@@ -5,10 +5,25 @@
 <h1> <p align="left">Areas of Technology am currently involved with include:</p> </h1>
 <ul>
   <li><strong>🤖 Network Engineering:</strong> From simulation to actual implementation.</li>
-  <li><strong>🌐 Web Development:</strong>Frontend Arsnal: HTML, CSS, Booststrap, figma, tailwind CSS, JS, Backend Arsnal: Flask, django & Java</li>
+  <li><strong>🌐 Web Development:</strong></li>
+  <ul>
+    <strong><li>Front-end</li></strong>
+    <li>HTML</li>
+    <li>CSS & tailwind</li>
+    <li>figma</li>
+    <li>JS</li>
+    <li>booststrap</li>
+    <li>Github</li>
+    <strong><li>Back-end</li></strong>
+    <li>Python (Flask & Django) </li>
+    <li>Java</li>
+    <li>Node JS</li>
+    <strong><li>Mysql</li></strong>
+  </ul>
   <li><strong>💻 Python Programming:</strong> Flask, Tkinter & Django</li> 
   <li><strong>📱 Flutter Apps Development:</strong> Developing cross-platform mobile applications using Dart programming language and Flutter framework.</li>
   <li><strong>    Ethical Hacking:</strong> Pentesting, network and systems security <strong># TEAM CYBER</strong></li>
+  <li><strong>MySQL: </strong>Relational Database management</li>
 </ul>
 <br>
 <p align="left">Currently Learning and developing deeper insight into:</p>
