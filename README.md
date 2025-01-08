@@ -18,7 +18,14 @@
     <li><strong>Full Stack Web Development:</strong></li>
     <li><strong>Node js</strong></li>
     <li><strong>JavaScript react framework</strong></li>
-    <li><strong>MEAN Stack Development</strong>MongoDB, Express, Angular and Nodejs</li>
+    <li><strong>MEAN Stack Development</strong>
+      <ul>
+        <li>MongoDB</li>
+        <li>Express</li>
+        <li>Angular</li>
+        <li>Node js</li>
+      </ul>
+    </li>
     </ul>
   <li><strong>C Programming Language</strong></li>
   <li><strong>C++ </strong></li>
