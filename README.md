@@ -5,6 +5,7 @@
 <h1> <p align="left">Areas of Technology am currently involved with include:</p> </h1>
 <ul>
   <li><strong>🤖 Network Engineering:</strong> From simulation to actual implementation.</li>
+  <li>DEV OPS & SEC DEV OPS</li>
   <li><strong>🌐 Web Development:</strong></li>
   <ul>
     <strong><li>Front-end</li></strong>
